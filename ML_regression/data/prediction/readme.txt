@@ -1,1 +1,1 @@
-Store your training samples here. Generate samples using training_sample_preparation.ipynb
+Store your file which needs energy reconstruction here. Generate samples using prediction_preparation.ipynb
